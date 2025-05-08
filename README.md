@@ -11,4 +11,6 @@ source venv/bin/activate  # Windows 用 venv\Scripts\activate
 pip install flask
 python app.py
 
-### Step 2: Then open http://127.0.0.1:5000 in your browser.
+
+### Step 2: Open in Browser
+Then open http://127.0.0.1:5000 in your browser.
