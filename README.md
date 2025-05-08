@@ -4,6 +4,7 @@ This is a personal portfolio website served using Flask.
 ## Run Instructions
 ### Step 1: Clone and Set Up Environment
 ```bash
+cd ~/Desktop
 git clone https://github.com/YourongXu/510_personal_project.git
 cd your-repo-name
 python -m venv venv
