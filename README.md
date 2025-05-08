@@ -1,6 +1,6 @@
 # Personal Portfolio Web
 
-This is a personal portfolio website built with HTML, CSS, and JavaScript, served using Flask. It showcases my background, education, experiences, skills, and passion. The site is intended for job searching and professional presentation.
+This is a personal portfolio that showcases my background, education, experiences, skills, and passion. The site is intended for job searching and professional presentation.
 
 To run this project locally:
 
