@@ -1,32 +1,14 @@
 # Personal Portfolio Web
+This is a personal portfolio website served using Flask.
 
-This is a personal portfolio that showcases my background, education, experiences, skills, and passion. The site is intended for job searching and professional presentation.
-
-To run this project locally:
+## Run Instructions
 
 ```bash
-1. Clone the repository
-
-git clone https://github.com/YourongXu/510_personal_project.git
-cd portfolio-web
-
-2. Set up a virtual environment
-
+git clone https://github.com/YourongXu/your-repo-name.git
+cd your-repo-name
 python -m venv venv
-source venv/bin/activate  # On Windows use venv\Scripts\activate
-
-3. Install Flask
-
-pip install Flask
-
-
-4. Run the application
-
+source venv/bin/activate  # Windows 用 venv\Scripts\activate
+pip install flask
 python app.py
 
-5. Open in browser
-
-
-The portfolio includes a hero section, a timeline of education and experiences, categorized skill cards, and a responsive contact form layout. Animations and transitions enhance the user experience. The site is fully responsive and optimized for both desktop and mobile viewports.
-
-Currently, the contact form is non-functional, but it can be extended using Flask routes and connected to a database or email service. Future improvements include adding a portfolio projects section and enabling dynamic form handling.
+Then open http://127.0.0.1:5000 in your browser.
