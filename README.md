@@ -4,10 +4,10 @@ This is a personal portfolio website served using Flask.
 ## Run Instructions
 ### Step 1: Clone and Set Up Environment
 ```bash
-git clone https://github.com/YourongXu/your-repo-name.git
+git clone https://github.com/YourongXu/510_personal_project.git
 cd your-repo-name
 python -m venv venv
-source venv/bin/activate  # Windows 用 venv\Scripts\activate
+source venv/bin/activate
 pip install flask
 python app.py
 ``` 
