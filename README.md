@@ -7,7 +7,7 @@ To run this project locally:
 ```bash
 1. Clone the repository
 
-git clone https://github.com/yourusername/portfolio-web.git
+git clone https://github.com/YourongXu/510_personal_project.git
 cd portfolio-web
 
 2. Set up a virtual environment
@@ -19,22 +19,12 @@ source venv/bin/activate  # On Windows use venv\Scripts\activate
 
 pip install Flask
 
-4. Ensure the following file structure
 
-.
-├── app.py              # Flask entry point
-├── templates/
-│   └── index.html      # Your portfolio HTML file
-├── static/
-│   ├── css/            # Custom styles (optional)
-│   ├── js/             # Optional JavaScript (if used)
-├── README.md
-
-5. Run the application
+4. Run the application
 
 python app.py
 
-6. Open in browser
+5. Open in browser
 
 
 The portfolio includes a hero section, a timeline of education and experiences, categorized skill cards, and a responsive contact form layout. Animations and transitions enhance the user experience. The site is fully responsive and optimized for both desktop and mobile viewports.
