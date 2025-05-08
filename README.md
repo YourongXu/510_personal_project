@@ -6,7 +6,7 @@ This is a personal portfolio website served using Flask.
 ```bash
 cd ~/Desktop
 git clone https://github.com/YourongXu/510_personal_project.git
-cd your-repo-name
+cd 510_personal_project
 python -m venv venv
 source venv/bin/activate
 pip install flask
